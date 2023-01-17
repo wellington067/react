@@ -1,7 +1,7 @@
 import "./styles.css";
 
 export default function App() {
-  return (
+  return ( 
   
     <div className="App">
       <h1>primeiros passos com react</h1>
